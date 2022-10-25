@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cuadrado</string>
+    <string name="ingrese_un_lado">Ingrese un lado</string>
+    <string name="button">Calcular</string>
+    <string name="lado">Lado</string>
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+</resources>
